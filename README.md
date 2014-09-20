@@ -1,4 +1,4 @@
 bmccurry
 ========
 
-This repository is my main project
+This repository my main project dump.
