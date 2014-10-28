@@ -1,3 +1,3 @@
 bmccurry
 ========
-This repository is my main project dump.
+This repository is my random files dump.
